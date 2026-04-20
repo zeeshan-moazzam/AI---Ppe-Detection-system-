@@ -6,7 +6,9 @@
 
 ## Dashboard
 
-![Dashboard]((dashboard.jpg),(dashboard1.png),(dashboard2.png))
+![Dashboard](dashboard.jpg)
+![Dashboard 1](docs/dashboard1.png)
+![Dashboard 2](docs/dashboard2.png)
 
 ---
 
