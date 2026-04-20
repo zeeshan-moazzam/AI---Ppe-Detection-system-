@@ -334,8 +334,8 @@ Bounding boxes show the detected class and confidence score. Red boxes = violati
 
 | | |
 |---|---|
-| ![Violation 1](docs/assets/violation_snapshot_1.jpg) | ![Violation 2](docs/assets/violation_snapshot_2.jpg) |
-| ![Violation 3](docs/assets/violation_snapshot_3.jpg) | ![Violation 4](docs/assets/violation_snapshot_4.jpg) |
+| ![Violation 1](docs/Sc1.png) | ![Violation 2](docs/Sc2.png) |
+| ![Violation 3](docs/Sc3.png) | ![Violation 4](docs/Sc4.png) |
 
 ### Violation Clip Demo
 
