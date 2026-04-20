@@ -343,8 +343,6 @@ A short clip is stitched from the violation sequence and saved as an MP4 for aud
 
 https://github.com/user-attachments/assets/violation_demo.mp4
 
-> **Note:** Upload `docs/assets/violation_demo.mp4` as a GitHub release asset or drag-and-drop it into a GitHub issue/PR to get a hosted URL, then replace the link above with that URL. GitHub renders MP4s inline in README when hosted through their CDN.
-
 ---
 
 ## Roadmap
