@@ -341,7 +341,7 @@ Bounding boxes show the detected class and confidence score. Red boxes = violati
 
 A short clip is stitched from the violation sequence and saved as an MP4 for audit and review.
 
-https://github.com/user-attachments/assets/violation_demo.mp4
+https://github.com/user-attachments/assets/1811aab5-b038-408b-a1c0-308fab3e7453
 
 ---
 
