@@ -6,7 +6,7 @@
 
 ## Dashboard
 
-![Dashboard](docs/assets/dashboard.jpg)
+![Dashboard](dashboard.jpg)
 
 ---
 
