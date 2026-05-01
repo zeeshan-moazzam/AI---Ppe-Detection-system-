@@ -415,7 +415,7 @@ FFmpeg is required for violation video assembly. Install separately:
 
 ## License
 
-MIT License — free to use, modify, and deploy. See [LICENSE](LICENSE) for details.
+MIT License 
 
 ---
 
