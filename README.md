@@ -20,7 +20,7 @@ Workers in industrial plants are required to wear Personal Protective Equipment 
 - Automated email alerts and periodic PDF compliance reports
 - A web dashboard for live camera feeds, violation history, and analytics
 
-This was built and deployed in a real industrial facility, running 24/7 across 9 IP cameras.
+This was built and deployed in a real industrial facility, running 24/7 across 9 critical IP cameras.
 
 ---
 
