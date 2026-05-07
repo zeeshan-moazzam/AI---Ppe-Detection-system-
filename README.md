@@ -1,4 +1,4 @@
-# AI-PPE  Detection — Real-Time Industrial Safety Surveillance
+# AI-PPE  Detection —- Real-Time Industrial Safety Surveillance
 
 > A production-grade, multi-camera PPE compliance monitoring system built for live industrial environments. Detects safety violations in real time using a custom-trained YOLOv8 model, stores evidence, and sends automated alerts — all from a self-hosted Flask dashboard.
 ---
